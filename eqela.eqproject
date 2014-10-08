@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# frameworks
+#
+
+projectname: frameworks
+vendorid: com.mycompany
+mainmodule: com.mycompany.frameworks
